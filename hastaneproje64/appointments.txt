@@ -1,0 +1,5 @@
+fikret arıcı;19;P001;ENT;Dr. White;- Monday -11:00-13:00
+ahmet sezenler;21;P001;Urology;Dr. Garcia;-Saturday -11:00-13:00
+harun enes;19;P001;Neurology;Dr. Clark;-Tuesday-10:00-12:00
+semih tastekin;20;P001;Orthopedics;Dr. Martinez;-Monday - 13:00-15:00
+Muhammed Keskin;21;P001;ENT;Dr. White;Monday - 11:00-13:00;Pınar Kaya

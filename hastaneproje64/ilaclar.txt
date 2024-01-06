@@ -1,0 +1,9 @@
+Cardiology;Aspirin;Beta Blockers;Statins
+Orthopedics;Ibuprofen;Muscle Relaxants;Painkillers
+Neurology;Lamictal;Topamax;Ritalin
+Pediatrics;Amoxicillin;Children's Tylenol;Cough Syrup
+Oncology;Chemotherapy;Immunotherapy;Targeted Therapy
+Gynecology;Birth Control Pills;Prenatal Vitamins;Hormone Therapy
+Dermatology;Cortisone Cream;Antibacterial Ointment;Sunscreen
+Urology;Flomax;Antibiotics;Pain Medication
+ENT;Antihistamines;Decongestants;Ear Drops

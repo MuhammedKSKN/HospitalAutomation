@@ -1,0 +1,9 @@
+Cardiology;Kalp Ritim Bozuklukları;Koroner Arter Hastalığı;Hipertransiyon
+Orthopedics;Kırıklar;Bel Ağrısı;Romatoid Artrit
+Neurology;Migren;Epilepsi;Parkinson Hastalığı
+Pediatrics;Çocukluk Alerjileri;Çocuk Diyabeti;Çocuk Romatizması
+Oncology;Kanser;Lenfoma;Meme Kanseri
+Gynecology;Doğum Kontrolü;Yumurtalık Kisti;Endometriozis
+Dermatology;Akne;Egzama;Psoriasis
+Urology;İdrar Yolu Enfeksiyonu;Prostat Sorunları;Böbrek Taşı
+ENT;Sinüzit;İşitme Kaybı;Bademcik İltihabı
